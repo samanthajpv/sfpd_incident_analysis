@@ -18,6 +18,7 @@ The purpose of this project was to create a Tableau dashboard on San Francisco c
 - Note that geographic location is not available for all rows. Those with no geolocation were not removed to show how many incident reports do not have location information in the 'Neighborhood' section of the dashboard.
 
 ## Visualizations
+<img width="1004" alt="Screen Shot 2022-04-30 at 3 51 52 PM" src="https://user-images.githubusercontent.com/73251886/166125540-6484cb51-30eb-4c1b-8d85-cd2ceb84ec81.png">
 
 - **Neighborhood**, **Police District**, & **Crime Map**: All three visualizations show that most crimes happen downtown San Francisco. It can be confirmed by the number of crimes committed and the density as seen in the map.
 - **Incident Category**: 'Larceny Theft' is the most common crime with almost a third of all the reported crimes. It's followed by 'Other Miscellaneous' which is comprised of a lot of different crimes labeled as 'Other' in the subcategory.
