@@ -25,7 +25,7 @@ The purpose of this project was to create a Tableau dashboard on San Francisco c
 - **Monthly Incident Count**: shows month to month comaprison of crime rate regardless of the year.
 - **Day and Hour of Incident** - shows crime rate occurrence regardless of the month and year. A lot would think that crimes happen late at night but the dahboard reveals that most crimes happen midday and late in the afternoon.  
 
-## Improvement
+## Opportunities for Improvement
  - Further refine the "Other Miscellaneous' incident cateogry to more specific labels
  - create a tableau story to show a deeper dive into each visualization
  - add filter in the dashboard to exclude rows with null information
